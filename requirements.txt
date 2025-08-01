@@ -1,0 +1,9 @@
+numpy
+scipy
+pywt
+matplotlib
+pandas
+seaborn
+scikit-learn
+jupyter        # Only if using notebooks
+# tk           # tkinter is standard in Python but may need 'python3-tk' on Linux
